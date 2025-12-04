@@ -134,26 +134,3 @@ A sleek, **dark‑themed grid‑style README**, designed for a clean developer a
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
 ---
-
-# 🔄 Auto Updating (Optional)
-Add this workflow to `.github/workflows/update.yml`:
-
-```yaml
-name: Update Readme
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-jobs:
-  update:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: anmol098/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-```
-
----
-
-✨ *Tell me if you want glowing borders, animated gradients, or a layout exactly like your screenshot!*
