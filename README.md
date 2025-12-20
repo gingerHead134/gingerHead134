@@ -63,9 +63,3 @@
   <br/>
   <img src="[https://readme-jokes.vercel.app/api?theme=ark&hide_border=true](https://readme-jokes.vercel.app/api?theme=ark&hide_border=true)" width="60%" />
 </div>
-
-
-
-
-
-
