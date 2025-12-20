@@ -32,7 +32,7 @@ I am a Cyber Security Student obsessed with understanding the "how" and "why" be
 
 🧠 Philosophy: If it can be automated, it should be.
 
-💀 MY_ARSENAL (TOOLS_&_STACK)
+💀 MY_ARSENAL (TOOLS & STACK)
 
 # STAGE_1: RECONNAISSANCE
 $nmap -sS -A -v target_ip$ gobuster dir -u [https://target.sys](https://target.sys) -w wordlist.txt
