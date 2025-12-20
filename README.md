@@ -1,46 +1,44 @@
 <div align="center">
 
-<!-- GLITCH HEADER -->
+<!-- JOSHI.SYS LOGO HEADER -->
 
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26height%3D200%26section%3Dheader%26text%3DJOSHI.SYS%26fontSize%3D80%26theme%3Dcobalt%26fontAlignY%3D40%26animation%3Dtwinkling" width="100%" />
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26height%3D200%26section%3Dheader%26text%3DJOSHI.SYS%26fontSize%3D70%26theme%3Dcobalt%26fontAlignY%3D35%26animation%3Dtwinkling" width="100%" />
 
-<!-- TYPING ANIMATION -->
+<!-- INTERACTIVE TYPING SVG -->
 
 <h1>
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com/%3Ffont%3DFira%2BCode%26size%3D35%26pause%3D1000%26color%3D00D4FF%26center%3Dtrue%26vCenter%3Dtrue%26width%3D500%26lines%3DROOT_ACCESS_GRANTED%3BAspiring%2BRed%2BTeamer;[+]_System_Breaker;Tracking_Vulnerabilities..." />
+<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com/%3Ffont%3DFira%2BCode%26size%3D35%26pause%3D1000%26color%3D00D4FF%26center%3Dtrue%26vCenter%3Dtrue%26width%3D600%26lines%3DROOT_ACCESS_GRANTED%3BAspiring%2BRed%2BTeamer;[+]+System+Breaker;Initializing+Exploits..." />
 </h1>
 
-<!-- STATUS BADGES -->
+<!-- SYSTEM STATUS BADGES -->
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Status-Active_Infiltration-00D4FF%3Fstyle%3Dfor-the-badge%26logo%3Dkali-linux%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Identity-Priyanshu_Joshi-00D4FF%3Fstyle%3Dfor-the-badge%26logo%3Dkali-linux%26logoColor%3Dwhite" />
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Threat_Level-Critical-red%3Fstyle%3Dfor-the-badge%26logo%3Dhack-the-box%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Security-Offensive-000000%3Fstyle%3Dfor-the-badge%26logo%3Dmetasploit%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Status-Infiltrating-green%3Fstyle%3Dfor-the-badge%26logo%3Dlinux%26logoColor%3Dwhite" />
 </p>
 
-📡 SYSTEM_INTEL: PRIYANSHU JOSHI
+📡 INTEL_SUMMARY
 
 "I don’t trust systems until I’ve broken them."
 
-I’m a Cyber Security student who learns best by tearing into how things work under the hood. I spend most of my time in Linux terminals, CTF environments, and deliberately vulnerable systems, turning misconfigurations into documented lessons.
+I am a Cyber Security Student obsessed with understanding the "how" and "why" behind system failures. I spend my hours inside Linux terminals, deliberately vulnerable environments, and CTF challenges—turning security assumptions into documented proof-of-concepts.
 
-<img align="right" width="280" src="https://www.google.com/search?q=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndXp4amx3eGZ3bmR6eW56eW56eW56eW56eW56eW56eW56JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/Y8378Z6y2I09Yd%2Bq4r/giphy.gif" />
+<img align="right" width="320" src="https://www.google.com/search?q=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndXp4amx3eGZ3bmR6eW56eW56eW56eW56eW56eW56eW56JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/Y8378Z6y2I09Yd%2Bq4r/giphy.gif" />
 
-🚩 Operations: Recon, Exploitation, and Post-Exploitation.
+🚩 Operations: Reconnaissance, Exploitation, and Post-Exploitation.
 
-⚡ Interests: Web App Infiltration, Cryptography Flaws, Auth Bypass.
+⚡ Interests: Web Infiltration, Applied Cryptography, and Auth Bypassing.
 
-🧠 Philosophy: If it's manual twice, it should be automated.
+🧠 Philosophy: If it can be automated, it should be.
 
 💀 MY_ARSENAL (TOOLS_&_STACK)
 
-# RECONNAISSANCE_PHASE
-$ nmap -sS -A -T4 target_identity
-$ dirsearch -u [https://joshi.sys](https://joshi.sys) -e php,html,js
+# STAGE_1: RECONNAISSANCE
+$nmap -sS -A -v target_ip$ gobuster dir -u [https://target.sys](https://target.sys) -w wordlist.txt
 
-# EXPLOITATION_PHASE
-$ msfconsole -q -x "use exploit/multi/handler"
-$ hashcat -m 1800 shadow_file.txt wordlist.txt
+# STAGE_2: EXPLOITATION
+$msfconsole -q -p exploits/multi/handler$ hashcat -m 1800 shadow_file.txt rockyou.txt
 
 
 <div align="center">
@@ -51,15 +49,15 @@ $ hashcat -m 1800 shadow_file.txt wordlist.txt
 
 PROJECT
 
-STATUS
+ACCESS_LEVEL
 
 INTEL
 
 MindMesh
 
-[LIVE]
+[DEVEL]
 
-Collaborative study platform with secure P2P WebRTC.
+Collaborative P2P study platform using secure WebRTC.
 
 3DES Scrambler
 
@@ -77,7 +75,7 @@ Abyss Solver
 
 [DECRYPTED]
 
-Python-based regex forensics for malformed logs.
+Python-based regex forensics for malformed data.
 
 📊 DATA_MINING (ANALYTICS)
 
