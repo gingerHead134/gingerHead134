@@ -14,9 +14,7 @@
       <td width="50%" align="center" valign="top">
         <h3>🤣 Code Humor</h3>
         <img src="https://readme-jokes.vercel.app/api?theme=radical&hide_border=true" width="100%" />
-        
         <br/><br/>
-        
         <h3>🕵️‍♂️ Top Secret</h3>
         <details>
           <summary>🖱️ <b>CLICK TO DECRYPT</b></summary>
@@ -25,7 +23,6 @@
           <p><i>(Red Team operations in progress...)</i></p>
         </details>
       </td>
-      
       <td width="50%" align="center" valign="top">
         <h3>📊 Activity Stream</h3>
         <img src="https://github-readme-stats.vercel.app/api?username=PriyanshuJoshi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="100%" />
