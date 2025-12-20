@@ -1,47 +1,64 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,35,40,50&height=250&section=header&text=&fontSize=90" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=10,20,30&height=200&section=header&text=&fontSize=90" width="100%"/>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=PRIYANSHU+JOSHI;STATUS%3A+HUNTING+VULNERABILITIES;STACK%3A+PYTHON+%7C+JAVA+%7C+KALI;GOAL%3A+RED+TEAM+ENGINEER" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=45&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&lines=PRIYANSHU+JOSHI;OPERATOR+%2F%2F+RED+TEAM;OFFENSIVE+CYBER+SECURITY;TARGET%3A+SYSTEM+COMPROMISED" alt="Typing SVG" />
   </a>
 </div>
 
-<div align="center">
-  <h3>💀 Offensive Security Student | Cyber Security Enthusiast</h3>
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-  <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" width="100%" />
-</div>
-
-<br />
-
-<table border="0" width="100%">
-  <tr border="0">
-    <td width="50%" align="center">
-      <h3>⚔️ Attack Arsenal</h3>
-      <p><b>Tools of the trade for Recon & Exploitation</b></p>
-      <img src="https://skillicons.dev/icons?i=kali,bash,python,metasploit,burpsuite,wireshark&theme=dark&perline=3" />
+<table border="0" width="100%" align="center">
+  <tr>
+    <td width="45%" align="center" valign="center">
+      <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874018293ef10b2bd63103.gif" width="100%" style="border-radius: 10px;" alt="Cyber HUD"/>
+      <br/><br/>
+      
+      <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID">
+        <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+      <a href="mailto:your_email@example.com">
+        <img src="https://img.shields.io/badge/EMAIL-INITIATE_HANDSHAKE-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>
     </td>
-    <td width="50%" align="center">
-      <h3>🛡️ Engineering Core</h3>
-      <p><b>Building secure infrastructure & logic</b></p>
-      <img src="https://skillicons.dev/icons?i=java,c,linux,docker,aws,git&theme=dark&perline=3" />
+    
+    <td width="55%" valign="top">
+      <h3>⚡ <span style="color:#00FFCC">./mission_profile</span></h3>
+      <blockquote>
+        <b>Objective:</b> Red Team Engineering<br>
+        <b>Current Status:</b> B.Tech Cyber Security Student<br>
+        <b>Focus:</b> Recon, Exploitation, & Cryptography
+      </blockquote>
+      
+      <br/>
+      
+      <h3>🛠️ <span style="color:#00FFCC">./load_arsenal</span></h3>
+      <p>
+        <img src="https://img.shields.io/badge/Kali_Linux-Repo-black?style=flat-square&logo=linux&color=101010" />
+        <img src="https://img.shields.io/badge/Python-Scripting-black?style=flat-square&logo=python&color=101010" />
+        <img src="https://img.shields.io/badge/Java-Core-black?style=flat-square&logo=openjdk&color=101010" />
+        <img src="https://img.shields.io/badge/Bash-Automate-black?style=flat-square&logo=gnu-bash&color=101010" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Burp_Suite-Intercept-black?style=flat-square&logo=burpsuite&color=101010" />
+        <img src="https://img.shields.io/badge/Metasploit-Exploit-black?style=flat-square&logo=metasploit&color=101010" />
+        <img src="https://img.shields.io/badge/Wireshark-Analyze-black?style=flat-square&logo=wireshark&color=101010" />
+      </p>
+
     </td>
   </tr>
 </table>
 
-<br />
-
+<h3 align="center">📊 <span style="color:#00FFCC">./system_metrics</span></h3>
 <div align="center">
-  <h3>📊 Operational Metrics</h3>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00FFCC&icon_color=00FFCC" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00FFCC&icon_color=00FFCC" height="150" />
 </div>
 
-<br />
+<br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,35,40,50&height=150&section=footer"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&bg_color=0D1117&color=00FFCC&line=00FFCC&point=FFFFFF&hide_border=true" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=10,20,30&height=50&section=footer"/>
 </div>
