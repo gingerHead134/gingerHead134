@@ -1,68 +1,45 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/Hp4lpWrkCmNjMggc6H/giphy.gif" width="100%" height="250" style="object-fit: cover; border-radius: 10px;" />
+  <img src="https://media.giphy.com/media/Hp4lpWrkCmNjMggc6H/giphy.gif" width="100%" height="300" style="object-fit: cover; border-radius: 6px; border: 1px solid #333;" />
   
   <br/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=500&size=25&pause=1000&color=00FF00&background=00000000&center=true&vCenter=true&width=800&lines=PLAYER+ONE:+PRIYANSHU+JOSHI;CURRENT+MISSION:+RED+TEAM+ENGINEER;LOADING+ASSETS...;SYSTEM+READY" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Glitch&weight=400&size=45&pause=1000&color=F70000&background=00000000&center=true&vCenter=true&width=800&lines=SYSTEM+ALERT%3A+PRIYANSHU+JOSHI;THREAT+LEVEL%3A+EXTREME;ROLE%3A+RED+TEAM+ENGINEER;STATUS%3A+INFILTRATING..." alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <h3>🏆 UNLOCKED ACHIEVEMENTS</h3>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=PriyanshuJoshi&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-  </a>
+  <img src="https://img.shields.io/badge/ROOT_ACCESS-GRANTED-success?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/SECURITY_LEVEL-ZERO-critical?style=for-the-badge&logo=torproject&logoColor=white" />
+  <img src="https://img.shields.io/badge/CURRENT_IP-HIDDEN-blueviolet?style=for-the-badge&logo=vpn&logoColor=white" />
 </div>
 
 <br/>
 
 <div align="center">
-  <h3>⚠️ TOP SECRET</h3>
+  <div style="background-color: #0d1117; border: 1px solid #21262d; border-radius: 6px; padding: 20px; text-align: left; width: 90%;">
+    <span style="color: #ff0000;">root@priyanshu:~/missions#</span> ./identify_target.py<br/><br/>
+    <span style="color: #8b949e;">> <b>Subject:</b></span> Priyanshu Joshi<br/>
+    <span style="color: #8b949e;">> <b>Class:</b></span>   Offensive Security Engineer<br/>
+    <span style="color: #8b949e;">> <b>Armory:</b></span>  Python, Java, Bash, Kali<br/>
+    <span style="color: #8b949e;">> <b>Active:</b></span>  MindMesh (Project), CTFs<br/>
+    <span style="color: #8b949e;">> <b>Motto:</b></span>   "Breaching the perimeter."<br/><br/>
+    <span style="color: #ff0000;">root@priyanshu:~/missions#</span> <span style="animation: blink 1s infinite;">_</span>
+  </div>
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>⚠️ EXECUTE PROTOCOL</h3>
   <details>
     <summary>
-      <img src="https://img.shields.io/badge/CLICK_TO_ACCESS-RESTRICTED_DATA-red?style=for-the-badge&logo=kalilinux" />
+      <img src="https://img.shields.io/badge/DEPLOY_VIRUS-DO_NOT_CLICK-red?style=for-the-badge&logo=gnu-bash" />
     </summary>
     <br/>
-    <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="300" />
-    <p><i>(Visual representation of me brute-forcing a password)</i></p>
+    <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="350" />
+    <p><i>(Just kidding. But seriously, secure your ports.)</i></p>
   </details>
-</div>
-
-<br/>
-
-<div align="center">
-  <h3>📊 POWER LEVELS</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=PriyanshuJoshi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" height="180" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshuJoshi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="180" />
-</div>
-
-<br/>
-
-<div align="center">
-  <h3>🛠️ INVENTORY</h3>
-  <img src="https://skillicons.dev/icons?i=kali,python,java,bash,c,linux,windows&theme=dark&perline=7" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws,burpsuite,wireshark&theme=dark&perline=7" />
-</div>
-
-<br/>
-
-<div align="center">
-  <h3>🤣 PATCH NOTES</h3>
-  <img src="https://readme-jokes.vercel.app/api?theme=radical&hide_border=true" width="60%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <h3>🐍 COMMIT HISTORY</h3>
-  <img src="https://github-readme-snake.vercel.app/api?username=PriyanshuJoshi&palette=github-dark&color_snake=bd34fe&color_dots=161b22" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=10,2,35&height=20&section=footer" width="100%"/>
 </div>
