@@ -1,112 +1,66 @@
-<div align="center">
-
-<!-- JOSHI.SYS LOGO HEADER -->
-
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26height%3D200%26section%3Dheader%26text%3DJOSHI.SYS%26fontSize%3D70%26theme%3Dcobalt%26fontAlignY%3D35%26animation%3Dtwinkling" width="100%" />
-
-<!-- INTERACTIVE TYPING SVG -->
-
-<h1>
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com/%3Ffont%3DFira%2BCode%26size%3D35%26pause%3D1000%26color%3D00D4FF%26center%3Dtrue%26vCenter%3Dtrue%26width%3D600%26lines%3DROOT_ACCESS_GRANTED%3BAspiring%2BRed%2BTeamer;[+]+System+Breaker;Initializing+Exploits..." />
-</h1>
-
-<!-- SYSTEM STATUS BADGES -->
-
-<p align="center">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Identity-Priyanshu_Joshi-00D4FF%3Fstyle%3Dfor-the-badge%26logo%3Dkali-linux%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Threat_Level-Critical-red%3Fstyle%3Dfor-the-badge%26logo%3Dhack-the-box%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Status-Infiltrating-green%3Fstyle%3Dfor-the-badge%26logo%3Dlinux%26logoColor%3Dwhite" />
-</p>
-
-📡 INTEL_SUMMARY
-
-"I don’t trust systems until I’ve broken them."
-
-I am a Cyber Security Student obsessed with understanding the "how" and "why" behind system failures. I spend my hours inside Linux terminals, deliberately vulnerable environments, and CTF challenges—turning security assumptions into documented proof-of-concepts.
-
-<img align="right" width="320" src="https://www.google.com/search?q=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndXp4amx3eGZ3bmR6eW56eW56eW56eW56eW56eW56eW56JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/Y8378Z6y2I09Yd%2Bq4r/giphy.gif" />
-
-🚩 Operations: Reconnaissance, Exploitation, and Post-Exploitation.
-
-⚡ Interests: Web Infiltration, Applied Cryptography, and Auth Bypassing.
-
-🧠 Philosophy: If it can be automated, it should be.
-
-💀 MY_ARSENAL (TOOLS & STACK)
-
-# STAGE_1: RECONNAISSANCE
-$nmap -sS -A -v target_ip$ gobuster dir -u [https://target.sys](https://target.sys) -w wordlist.txt
-
-# STAGE_2: EXPLOITATION
-$msfconsole -q -p exploits/multi/handler$ hashcat -m 1800 shadow_file.txt rockyou.txt
-
+# 👨‍💻 Hi there, I'm Priyanshu Joshi!
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,java,bash,mysql,linux,aws,docker,github%26theme%3Ddark" />
+  <img src="https://media.giphy.com/media/Q8IYWnnogjM02VRbop/giphy.gif" width="600" height="300"/>
 </div>
 
-🧪 ACTIVE_EXPLOITS (LAB_RECORDS)
+### 💀 "Breaking things to make them stronger."
 
-PROJECT
+I am a **B.Tech Cyber Security Student** with a passion for the offensive side of the digital world. My goal? To master the art of the **Red Team** and think like the adversary to secure the infrastructure.
 
-ACCESS_LEVEL
+If I'm not solving a CTF or analyzing a hash, I'm probably watching a Techno-Thriller and pointing out the inaccuracies in their hacking scenes. 🍿
 
-INTEL
+---
 
-MindMesh
+## 🚀 The Arsenal (My Tech Stack)
 
-[DEVEL]
-
-Collaborative P2P study platform using secure WebRTC.
-
-3DES Scrambler
-
-[ENCRYPTED]
-
-Java-based pixel-level image encryption engine.
-
-Password Vault
-
-[SECURED]
-
-AES-GCM encrypted vault with PBKDF2 key derivation.
-
-Abyss Solver
-
-[DECRYPTED]
-
-Python-based regex forensics for malformed data.
-
-📊 DATA_MINING (ANALYTICS)
+I don't just use tools; I understand how they break.
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dpriyanshu008%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D00000000" height="165" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dpriyanshu008%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D00000000" height="165" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/Linux_/_Kali-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-101010?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-2D8C3C?style=for-the-badge&logo=nmap&logoColor=white" />
 </p>
 
-<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3Dpriyanshu008%26theme%3Dtokyonight%26hide_border%3Dtrue%26area%3Dtrue" width="100%" />
+---
 
-📟 ESTABLISH_SIGNAL
+## 🔭 What I'm Focused On
 
-<p align="center">
-<a href="https://www.linkedin.com/in/priyanshu-joshi-a1793b251" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" />
-</a>
-<a href="https://tryhackme.com/p/priyanshupro123" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/TryHackMe-88CC14%3Fstyle%3Dfor-the-badge%26logo%3Dtryhackme%26logoColor%3Dwhite" />
-</a>
-<a href="https://www.youtube.com/@priyanshujoshi7800" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/YouTube-FF0000%3Fstyle%3Dfor-the-badge%26logo%3Dyoutube%26logoColor%3Dwhite" />
-</a>
-<a href="mailto:priyanshupro123@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-</p>
+* **🕵️‍♂️ Reconnaissance:** Mastering the art of information gathering before the strike.
+* **💥 Web Exploitation:** SQL Injection, XSS, and breaking logic flows.
+* **🔐 Cryptography:** Analyzing hashes and RSA weaknesses (Math is power).
+* **🐧 System Hardening:** Breaking into Linux/Windows boxes in my virtual labs.
+
+---
+
+## ⚡ Stats & Strengths
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/priyanshu008/priyanshu008/output/snake.svg" alt="Snake animation" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+</a>
 </div>
 
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26height%3D100%26section%3Dfooter%26theme%3Dcobalt" width="100%" />
+---
 
-</div>
+## 📫 Connect with Me
+
+Let's talk about zero-days, CTFs, or the best Sci-Fi movies.
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your_email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
