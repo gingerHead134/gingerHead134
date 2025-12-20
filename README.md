@@ -28,3 +28,22 @@ Current Op: Developing "MindMesh" (Collab Platform)
 [+] System:    Kali Linux, Windows
 [+] Tools:     Metasploit, Burp Suite, Wireshark, Nmap
 [+] Interest:  Cryptography & Web Exploitation
+
+<div align="center"> <h3>⚠️ RESTRICTED AREA</h3> <p>Interactive Command Line - Authorized Personnel Only</p>
+
+<details> <summary> <img src="https://www.google.com/search?q=https://img.shields.io/badge/EXECUTE_PAYLOAD-CLICK_ME-red%3Fstyle%3Dfor-the-badge%26logo%3Dkalilinux" /> </summary>
+
+
+<img src="https://www.google.com/search?q=https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="300" /> <p><i>(System compromised. Welcome to the team.)</i></p> </details> </div>
+
+<div align="center"> <h3>🛠️ WEAPONRY</h3> <img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dkali,python,java,bash,c,linux,windows%26theme%3Ddark%26perline%3D7" />
+
+
+
+<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dgit,github,vscode,docker,aws,burpsuite,wireshark%26theme%3Ddark%26perline%3D7" /> </div>
+
+<div align="center"> <h3>📊 MISSION STATS</h3> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DPriyanshuJoshi%26show_icons%3Dtrue%26theme%3Dvision-friendly-dark%26hide_border%3Dtrue%26bg_color%3D0D1117" height="170" /> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DPriyanshuJoshi%26layout%3Dcompact%26theme%3Dvision-friendly-dark%26hide_border%3Dtrue%26bg_color%3D0D1117" height="170" /> </div>
+
+<div align="center"> <h3>🐍 ACTIVITY LOG</h3> <img src="https://www.google.com/search?q=https://github-readme-snake.vercel.app/api%3Fusername%3DPriyanshuJoshi%26palette%3Dgithub-dark%26color_snake%3D00FF00%26color_dots%3D161b22" width="100%" /> </div>
+
+<div align="center"> <img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Drect%26color%3D0:000000,100:00FF00%26height%3D20%26section%3Dfooter" width="100%"/> </div>
