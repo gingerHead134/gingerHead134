@@ -1,66 +1,61 @@
-# 👨‍💻 Hi there, I'm Priyanshu Joshi!
-
 <div align="center">
-  <img src="https://media.giphy.com/media/Q8IYWnnogjM02VRbop/giphy.gif" width="600" height="300"/>
-</div>
+  <img src="https://media.giphy.com/media/Hp4lpWrkCmNjMggc6H/giphy.gif" width="100%" height="200" style="object-fit: cover;" alt="Cyber Banner" />
 
-### 💀 "Breaking things to make them stronger."
+  <br/><br/>
 
-I am a **B.Tech Cyber Security Student** with a passion for the offensive side of the digital world. My goal? To master the art of the **Red Team** and think like the adversary to secure the infrastructure.
-
-If I'm not solving a CTF or analyzing a hash, I'm probably watching a Techno-Thriller and pointing out the inaccuracies in their hacking scenes. 🍿
-
----
-
-## 🚀 The Arsenal (My Tech Stack)
-
-I don't just use tools; I understand how they break.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <br />
-  <img src="https://img.shields.io/badge/Linux_/_Kali-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <br />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-101010?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-2D8C3C?style=for-the-badge&logo=nmap&logoColor=white" />
-</p>
-
----
-
-## 🔭 What I'm Focused On
-
-* **🕵️‍♂️ Reconnaissance:** Mastering the art of information gathering before the strike.
-* **💥 Web Exploitation:** SQL Injection, XSS, and breaking logic flows.
-* **🔐 Cryptography:** Analyzing hashes and RSA weaknesses (Math is power).
-* **🐧 System Hardening:** Breaking into Linux/Windows boxes in my virtual labs.
-
----
-
-## ⚡ Stats & Strengths
-
-<div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
-</a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=USER%3A+Priyanshu+Joshi;STATUS%3A+Red+Team+Aspirant;MISSION%3A+Breacking+Code;LOC%3A+Shadows+of+the+Web" alt="Typing SVG" />
+  </a>
 </div>
 
 ---
 
-## 📫 Connect with Me
+<table border="0" width="100%">
+  <tr>
+    <td width="60%">
+      <h3>👨‍💻 <span style="color:#00FF00">root@priyanshu:~$</span> whoami</h3>
+      <div style="background-color: #0d1117; padding: 20px; border-radius: 10px; border: 1px solid #30363d;">
+        <p>
+          > <b>Identity:</b> B.Tech Cyber Security Student<br>
+          > <b>Focus:</b> Offensive Security, Recon, & Post-Exploitation<br>
+          > <b>Vibe:</b> Techno-Thrillers & Digital Espionage<br>
+          > <b>Motto:</b> "If it works, break it. If it breaks, fix it secure."
+        </p>
+        <p>
+          I don't just write code; I look for the cracks in it. Currently sharpening my skills in <b>Cryptography</b>, <b>Web Exploitation</b>, and building tools to automate the red team workflow.
+        </p>
+      </div>
+    </td>
+    <td width="40%" align="center">
+      <h3>📊 Power Level</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=00FF00&icon_color=00FF00" alt="Stats" />
+    </td>
+  </tr>
+</table>
 
-Let's talk about zero-days, CTFs, or the best Sci-Fi movies.
+---
 
-<p align="center">
+<h3 align="center">🛠️ The Offensive Toolkit</h3>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,bash,kali,linux,windows,aws&perline=7" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,md,wireshark,vim&perline=6" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-snake.vercel.app/api?username=YOUR_GITHUB_USERNAME&palette=github-dark&color_snake=00FF00&color_dots=161b22" alt="snake" />
+</div>
+
+---
+
+<div align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="mailto:your_email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
-</p>
+</div>
